@@ -1,5 +1,6 @@
 import os
 
+# Writes one relaxed text (TEXT) to entry.txt in MAKEFUN_OUTPUT_DIR, defaulting to /output.
 TEXT = (
     "Your eyes are closed. The voice above you goes on, slow.\n"
     "A page turns. A page turns.\n"
